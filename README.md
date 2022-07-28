@@ -6,7 +6,7 @@ Olá! Eu sou o Vítor 👋
 <!-- Descrição -->
 <div align="center">
 <h4 align="center">
-<td align="center">Estudante de <a href="https://fga.unb.br/eletronica">Engenharia de Software</a> na <a href="https://www.unb.br/">Universidade de Brasília</a> (UnB) 🎓
+<td align="center">Estudante de <a href="https://fga.unb.br/eletronica">Engenharia Eletrônica</a> na <a href="https://www.unb.br/">Universidade de Brasília</a> (UnB) 🎓
 <div>
 </h4>
 
